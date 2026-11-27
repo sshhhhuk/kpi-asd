@@ -1,0 +1,28 @@
+# IDE
+.vscode/
+
+# Build files
+build/
+*.o
+*.out
+*.exe
+a.out
+
+# Reports
+*.docx
+*.doc
+*.pdf
+*.odt
+
+# Executables
+/labs/1/case1
+/labs/1/case2
+/labs/2/dynamic-programming
+/labs/2/nested-loops
+/labs/3/main
+/labs/3/matrix
+/labs/4/binary-search
+/labs/5/matrix-sorting
+
+# Debug files
+*.dSYM/
